@@ -1,0 +1,345 @@
+{
+  "schema": "a7c2-profile-library/1",
+  "count": 15,
+  "profiles": [
+    {
+      "category": "Fujifilm",
+      "name": "Astia",
+      "source_profile": "A7C II Astia",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Astia.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Astia.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 3.376925625269703,
+        "RGB_P95_8bit": 11.47418367523776
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.5265700856446411,
+        "RGB_P95_8bit": 4.844584356556189
+      },
+      "copyright": "Astia Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Bleach Bypass",
+      "source_profile": "A7C II Bleach Bypass",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Bleach_Bypass.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Bleach_Bypass.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.501717974348749,
+        "RGB_P95_8bit": 6.381893470804425
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.4449593601769142,
+        "RGB_P95_8bit": 3.777540347739965
+      },
+      "copyright": "Bleach Bypass Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Classic Chrome",
+      "source_profile": "A7C II Classic Chrome",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Classic_Chrome.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Classic_Chrome.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.8438285696570476,
+        "RGB_P95_8bit": 9.411697927008888
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.306036058819643,
+        "RGB_P95_8bit": 3.877897294940842
+      },
+      "copyright": "Classic Chrome Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Classic Neg.",
+      "source_profile": "A7C II Classic Negative",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Classic_Negative.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Classic_Negative.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 5.410624574844185,
+        "RGB_P95_8bit": 23.666810071773988
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 3.0157415800293244,
+        "RGB_P95_8bit": 11.552723911425225
+      },
+      "copyright": "Classic Neg. Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Eterna",
+      "source_profile": "A7C II Eterna",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Eterna.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Eterna.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.2916548181799423,
+        "RGB_P95_8bit": 7.6725023808468436
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.35578693689376,
+        "RGB_P95_8bit": 4.22078485246158
+      },
+      "copyright": "Eterna Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Nostalgic Neg.",
+      "source_profile": "A7C II Nostalgic Negative",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Nostalgic_Negative.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Nostalgic_Negative.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.5947573523225884,
+        "RGB_P95_8bit": 9.44136081566605
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.4470736234075805,
+        "RGB_P95_8bit": 4.555573899931693
+      },
+      "copyright": "Nostalgic Neg. Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Pro Neg Hi",
+      "source_profile": "A7C II Pro Neg Hi",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Pro_Neg_Hi.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Pro_Neg_Hi.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.908741173593753,
+        "RGB_P95_8bit": 8.093014768841629
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.6018105145771875,
+        "RGB_P95_8bit": 5.097394690147762
+      },
+      "copyright": "Pro Neg Hi Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Pro Neg Std",
+      "source_profile": "A7C II Pro Neg Std",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Pro_Neg_Std.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Pro_Neg_Std.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.211201964251632,
+        "RGB_P95_8bit": 6.466118276944291
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.309319014754738,
+        "RGB_P95_8bit": 4.214287410314388
+      },
+      "copyright": "Pro Neg Std Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Provia",
+      "source_profile": "A7C II Provia",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Provia.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Provia.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.3709381387259176,
+        "RGB_P95_8bit": 7.73960439561968
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.5422671315620118,
+        "RGB_P95_8bit": 5.143381130096078
+      },
+      "copyright": "Provia Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Reala Ace",
+      "source_profile": "A7C II Reala Ace",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Reala_Ace.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Reala_Ace.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.4092749331162544,
+        "RGB_P95_8bit": 6.853641610529088
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.7076728675259591,
+        "RGB_P95_8bit": 4.840430827327072
+      },
+      "copyright": "Reala Ace Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Fujifilm",
+      "name": "Velvia",
+      "source_profile": "A7C II Velvia",
+      "dcp": "Fujifilm/Sony_ILCE-7CM2_Velvia.dcp",
+      "a7look": "Fujifilm/Sony_ILCE-7CM2_Velvia.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 3.5583123031216126,
+        "RGB_P95_8bit": 10.476638866542203
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 2.1907748827953815,
+        "RGB_P95_8bit": 6.763560004816045
+      },
+      "copyright": "Velvia Film Look; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Ricoh GR III",
+      "name": "GR Negative Film",
+      "source_profile": "Camera Negative Film (GR Look, a7C2 WB)",
+      "dcp": "Ricoh GR III/Sony_ILCE-7CM2 RICOH GR III Camera Negative Film (GR Look, a7C2 WB).dcp",
+      "a7look": "Ricoh GR III/Sony_ILCE-7CM2 RICOH GR III Camera Negative Film (GR Look, a7C2 WB).a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 3.5331717109999268,
+        "RGB_P95_8bit": 13.643933579515435
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 2.083179235829681,
+        "RGB_P95_8bit": 7.598379505370273
+      },
+      "copyright": "GR Negative Film; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Ricoh GR III",
+      "name": "GR Positive Film",
+      "source_profile": "Camera Positive Film (GR Look, a7C2 WB)",
+      "dcp": "Ricoh GR III/Sony_ILCE-7CM2 RICOH GR III Camera Positive Film (GR Look, a7C2 WB).dcp",
+      "a7look": "Ricoh GR III/Sony_ILCE-7CM2 RICOH GR III Camera Positive Film (GR Look, a7C2 WB).a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.074269331858215,
+        "RGB_P95_8bit": 6.303782472536988
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.3620762631344825,
+        "RGB_P95_8bit": 3.8150559030968494
+      },
+      "copyright": "GR Positive Film; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Ricoh GR III",
+      "name": "GR Standard",
+      "source_profile": "Camera Standard (GR Look, a7C2 WB)",
+      "dcp": "Ricoh GR III/Sony_ILCE-7CM2 RICOH GR III Camera Standard (GR Look, a7C2 WB).dcp",
+      "a7look": "Ricoh GR III/Sony_ILCE-7CM2 RICOH GR III Camera Standard (GR Look, a7C2 WB).a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.197585441147532,
+        "RGB_P95_8bit": 7.601973174673685
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.2548042986738934,
+        "RGB_P95_8bit": 3.7235890282480444
+      },
+      "copyright": "GR Standard; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    },
+    {
+      "category": "Ricoh GR III",
+      "name": "GR Vivid",
+      "source_profile": "Camera Vivid (GR Look, a7C2 WB)",
+      "dcp": "Ricoh GR III/Sony_ILCE-7CM2 RICOH GR III Camera Vivid (GR Look, a7C2 WB).dcp",
+      "a7look": "Ricoh GR III/Sony_ILCE-7CM2 RICOH GR III Camera Vivid (GR Look, a7C2 WB).a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "chosen_fit": "extended-LR",
+      "validation_prediction": {
+        "RGB_MAE_8bit": 2.123096935969919,
+        "RGB_P95_8bit": 7.697817825666513
+      },
+      "independent_prediction": {
+        "RGB_MAE_8bit": 1.4674942162484257,
+        "RGB_P95_8bit": 4.7739902258361315
+      },
+      "copyright": "GR Vivid; used with the author's permission; MIT",
+      "physical_color_accuracy_verified": false
+    }
+  ],
+  "excluded": [
+    {
+      "name": "GR Hard Monotone",
+      "category": "Ricoh GR III",
+      "source_filename": "Sony_ILCE-7CM2 RICOH GR III Camera Hard Monotone (GR Look, a7C2 WB).dcp",
+      "reason": "Independent prediction exceeds mono inclusion criteria",
+      "independent_prediction": {
+        "RGB_MAE_8bit": 17.050251993025746,
+        "RGB_P95_8bit": 69.62599589001839
+      },
+      "criteria": {
+        "max_MAE_8bit": 3,
+        "max_P95_8bit": 12
+      }
+    },
+    {
+      "name": "GR Monotone",
+      "category": "Ricoh GR III",
+      "source_filename": "Sony_ILCE-7CM2 RICOH GR III Camera Monotone (GR Look, a7C2 WB).dcp",
+      "reason": "Independent prediction exceeds mono inclusion criteria",
+      "independent_prediction": {
+        "RGB_MAE_8bit": 8.59941856631887,
+        "RGB_P95_8bit": 38.20605233346507
+      },
+      "criteria": {
+        "max_MAE_8bit": 3,
+        "max_P95_8bit": 12
+      }
+    },
+    {
+      "name": "GR Soft Monotone",
+      "category": "Ricoh GR III",
+      "source_filename": "Sony_ILCE-7CM2 RICOH GR III Camera Soft Monotone (GR Look, a7C2 WB).dcp",
+      "reason": "Independent prediction exceeds mono inclusion criteria",
+      "independent_prediction": {
+        "RGB_MAE_8bit": 8.612943150876639,
+        "RGB_P95_8bit": 38.403083472211556
+      },
+      "criteria": {
+        "max_MAE_8bit": 3,
+        "max_P95_8bit": 12
+      }
+    }
+  ],
+  "fitting": {
+    "renderer": "maintainer Lightroom; not an end-user dependency",
+    "server": "aep72",
+    "passes": 12,
+    "max_evaluations_per_solve": 200,
+    "source_colors": 1536,
+    "independent_colors": 512,
+    "candidate_selection": "quantized validation MAE before independent tests",
+    "camera_io": false
+  }
+}

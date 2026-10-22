@@ -1,0 +1,3 @@
+Bundled fitted looks and their embedded original DCP profiles are used with the
+authors' permission and licensed under MIT, like the tool source. See credits.json.
+Camera rendering is an approximation; native-grid precision is not full DCP fidelity.
