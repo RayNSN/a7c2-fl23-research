@@ -1,0 +1,65 @@
+{
+  "pack": "default-six-v1",
+  "looks": [
+    {
+      "slot": 1,
+      "name": "Classic Neg.",
+      "file": "slot1.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "attribution": "Owner-supplied DCP, used with the author's permission; MIT",
+      "source_profile": "A7C II Classic Negative",
+      "source_filename": "Sony_ILCE-7CM2_Classic_Negative.dcp",
+      "copyright": "Owner-supplied DCP, used with the author's permission; MIT"
+    },
+    {
+      "slot": 2,
+      "name": "Classic Chrome",
+      "file": "slot2.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "attribution": "Owner-supplied DCP, used with the author's permission; MIT",
+      "source_profile": "A7C II Classic Chrome",
+      "source_filename": "Sony_ILCE-7CM2_Classic_Chrome.dcp",
+      "copyright": "Owner-supplied DCP, used with the author's permission; MIT"
+    },
+    {
+      "slot": 3,
+      "name": "Nostalgic Neg.",
+      "file": "slot3.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "attribution": "Owner-supplied DCP, used with the author's permission; MIT",
+      "source_profile": "A7C II Nostalgic Negative",
+      "source_filename": "Sony_ILCE-7CM2_Nostalgic_Negative.dcp",
+      "copyright": "Owner-supplied DCP, used with the author's permission; MIT"
+    },
+    {
+      "slot": 4,
+      "name": "Astia",
+      "file": "slot4.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "attribution": "Owner-supplied DCP, used with the author's permission; MIT",
+      "source_profile": "A7C II Astia",
+      "source_filename": "Sony_ILCE-7CM2_Astia.dcp",
+      "copyright": "Owner-supplied DCP, used with the author's permission; MIT"
+    },
+    {
+      "slot": 5,
+      "name": "GR Positive Film",
+      "file": "slot5.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "attribution": "Owner-supplied DCP, used with the author's permission; MIT",
+      "source_profile": "Camera Positive Film (GR Look, a7C2 WB)",
+      "source_filename": "Sony_ILCE-7CM2 RICOH GR III Camera Positive Film (GR Look, a7C2 WB).dcp",
+      "copyright": "Owner-supplied DCP, used with the author's permission; MIT"
+    },
+    {
+      "slot": 6,
+      "name": "GR Negative Film",
+      "file": "slot6.a7look",
+      "method": "Lightroom-reference-native-four-stage-extended-v1",
+      "attribution": "Owner-supplied DCP, used with the author's permission; MIT",
+      "source_profile": "Camera Negative Film (GR Look, a7C2 WB)",
+      "source_filename": "Sony_ILCE-7CM2 RICOH GR III Camera Negative Film (GR Look, a7C2 WB).dcp",
+      "copyright": "Owner-supplied DCP, used with the author's permission; MIT"
+    }
+  ]
+}
